@@ -1,0 +1,7 @@
+[2025-03-27T16:25:34.485] [INFO] default - ✅ Conectado a MongoDB
+[2025-03-27T16:25:34.525] [INFO] default - 📊 La media de ViewCounts es: 12456.68
+[2025-03-27T16:25:34.553] [INFO] default - 🔍 Preguntas con ViewCount mayor que la media: 2497
+[2025-03-27T16:25:34.598] [INFO] default - 🔍 Preguntas con títulos que contienen palabras clave: 145
+[2025-03-27T16:25:34.771] [INFO] default - 📄 Archivo PDF generado: C:\Users\pablo\Desktop\mongodb\DAM-M06-UF03-Punt-Partida-NodeJS\exemple-mongodb\src\data\out\informe1.pdf
+[2025-03-27T16:25:34.789] [INFO] default - 📄 Archivo PDF generado: C:\Users\pablo\Desktop\mongodb\DAM-M06-UF03-Punt-Partida-NodeJS\exemple-mongodb\src\data\out\informe2.pdf
+[2025-03-27T16:25:34.796] [INFO] default - 🔌 Conexión a MongoDB cerrada

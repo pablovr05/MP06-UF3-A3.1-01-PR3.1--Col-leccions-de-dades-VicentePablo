@@ -1,0 +1,33 @@
+1. Flying with a poster tube as a hand luggage
+2. When can you call yourself doctor?
+3. Should I hide the fact that I did a group assignment completely by myself?
+4. Self-Plagiarism in PhD thesis
+5. Is it acceptable to write a reference letter for yourself?
+6. Is it self-plagiarism to reuse my own unpublished material?
+7. Should I quit my PhD - workload, self-esteem and social life
+8. How to deal with an inappropriate greeting in an email?
+9. Letter writer snapped at my reminder email. What can I do in the future to prevent
+this, and should I still accept his letter?
+10. Is it wrong to repeat yourself in the abstract, introduction and conclusions?
+11. How to answer the question "tell me about yourself" in a Masters degree interview?
+12. How to cite oneself as co-author without all names, for resume or presentation?
+13. EU Ph.D. in Germany: Calling yourself "Dr." or "Ph.D."
+14. As a student with questions about a paper, can I email the author myself or should I
+ask someone else to contact him?
+15. How should I introduce myself (a graduate student) at a conference?
+16. Is asking your PhD supervisor a basic question considered inappropriate?
+17. Using nonstandard gender-neutral pronouns to refer to myself in academic writing
+18. Is reusing old code for a new assignment considered self plagiarism? How to
+protect yourself if you consider it to be, and a group partner does not?
+19. As a PhD student, I want to limit myself to 40 hrs/week. How to maintain this
+boundary?
+20. Why are journals t[2025-03-27T16:24:20.199] [INFO] default - ❌ Error en la consulta a MongoDB: ReferenceError: Cannot access 'client' before initialization
+    at main (C:\Users\pablo\Desktop\mongodb\DAM-M06-UF03-Punt-Partida-NodeJS\exemple-mongodb\src\Exercici2.js:70:9)
+    at Object.<anonymous> (C:\Users\pablo\Desktop\mongodb\DAM-M06-UF03-Punt-Partida-NodeJS\exemple-mongodb\src\Exercici2.js:230:1)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+[2025-03-27T16:24:20.204] [INFO] default - 🔌 Conexión a MongoDB cerrada
